@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 关于本页面
+主要展示：本人自2021年1月18日起，从0赚钱买特斯拉的进度和赞助者情况。
 
-You can use the [editor on GitHub](https://github.com/yonge3c/mx365.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 关于本人
+【昵称】易仁勇哥
+【所在地区】青岛
+【公众号】“易仁勇哥” ，每天更新，记录个人提升、赚钱买特斯拉的每一天。
+【自我介绍】87年，目前在研究互联网方面副业来赚钱，当前主要目标是赚钱买特斯拉。
+【其他要说的】坚持长期主义、定投思维。种下一棵树，最好的时间是在十年前，其次是现在。寻找志同道合的伙伴，互相监督，共同进步，更期待能有幸遇到高手带飞。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 联系和赞助
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yonge3c/mx365.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+微信：yonge365
+公众号：yonge3c
