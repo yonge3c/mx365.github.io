@@ -1,5 +1,5 @@
 
-本页面主要展示：本人从0赚钱买特斯拉的攒钱进度，以及赞助者信息，以示感谢。
+本页面主要用于展示：本人从0赚钱买特斯拉的攒钱进度，以及赞助者信息，以示感谢。
 
 ## 攒钱进度
 ◎ 目标赚钱金额36.99万。
@@ -17,7 +17,7 @@
 | 3           |名称3  | 行业3  | 联系方式3|
 | 4           |名称4  | 行业4  | 联系方式4|
 
-
+（具体内容待补充）
 
 * * *
 
@@ -39,15 +39,6 @@
 ## 联系和赞助
 
 公众号：易仁勇哥
-1
 
-![yirenyonge](https://github.com/yonge3c/yonge3c.github.io/blob/gh-pages/yongeLogo.png)
+![YirenYonge](http://qokro6tvk.hn-bkt.clouddn.com/yongeLogo.png)
 
-2
-
-![yirenyonge](https://github.com/yonge3c/yonge3c.github.io/raw/gh-pages/yongeLogo.png)
-
-
-3 
-
-![yirenyonge](yongeLogo.png)
